@@ -21,7 +21,7 @@ section {
 }
 
 .flex-column {
-  flex-direction: colum;
+  flex-direction: column;
 }
 
 .flex-one {
@@ -42,10 +42,10 @@ section {
 
 .btn {
   cursor: pointer;
-  border: none;
+  border: 0;
   padding: 6px 12px;
   border-radius: 3px;
-  line-height: 1.4rem;
+  line-height: 1.4;
 }
 
 .btn-default {
@@ -63,7 +63,7 @@ section {
   padding: 6px 12px;
   border: 1px solid #a0a0a0;
   color: #8598a2;
-  line-height: 1.4rem;
+  line-height: 1.4;
 }
 
 .text-light {
@@ -77,6 +77,6 @@ section {
 }
 
 .text-primary {
-  font-size: 30px;
+  font-size: 16px;
   color:#364147;
 }
