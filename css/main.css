@@ -120,10 +120,10 @@ section {
 }
 
 .nav-list li a {
-  font-weight: 700;
-  letter-spacing: .2px;
   font-size: 16px;
   text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.2px;  
 }
 
 .profile {
